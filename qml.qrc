@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>qt/etc/qt.conf</file>
         <file>ApplicationBar.qml</file>
         <file>ColorPalleteButton.qml</file>
         <file>CreditsListDelegate.qml</file>
